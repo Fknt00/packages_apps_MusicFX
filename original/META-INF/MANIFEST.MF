@@ -1,0 +1,24 @@
+Manifest-Version: 1.0
+Created-By: soong_zip
+
+Name: AndroidManifest.xml
+SHA-256-Digest: XCG6duQzDHCyumIP9xDNOcJBQefgY6uwwqp7+GPBXdQ=
+
+Name: classes.dex
+SHA-256-Digest: aqdSvV3HdzNCwZlvcHXWmj8pcGs8UFx2SrzzWEuMfPE=
+
+Name: res/drawable-hdpi-v4/icon.png
+SHA-256-Digest: BeXChSjv5dcVJcEG6/RmLkwAIhie8lodNFOomwOPwj4=
+
+Name: res/layout-land/music_main.xml
+SHA-256-Digest: nwtmc9hoxzr+5Ogml8LNrUyQ93aemy3GYz+y5stoYts=
+
+Name: res/layout/music_eq.xml
+SHA-256-Digest: T53DANpFs439GnLL+mT1zrxOZtvnHsX+RMzcjTR6jow=
+
+Name: res/layout/music_main.xml
+SHA-256-Digest: bxGK9Bylds++d+fYdODipcO3p4hYqo46jZRurZFu3QQ=
+
+Name: resources.arsc
+SHA-256-Digest: Lyy41Nx+YP+UYAWTnhhhZYLIh3mxmiFymRlQfh5R2GY=
+
