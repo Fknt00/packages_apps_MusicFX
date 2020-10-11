@@ -1,0 +1,32 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+SHA-256-Digest-Manifest: 4exD7G8AWI6SPP6PWfNzntdOmoMl70mlPECbSxQYWhc=
+X-Android-APK-Signed: 2, 3
+
+Name: AndroidManifest.xml
+SHA-256-Digest: W6B4D0kgGEu+hHmPl5V8hIXHpZ5eGr6Kjy67Hb/8K4w=
+
+Name: classes.dex
+SHA-256-Digest: wXb1dx+ihEaGrVN7fYDjXE9D1+MZVF4qX46BEcMu0OM=
+
+Name: res/drawable-hdpi-v4/icon.png
+SHA-256-Digest: XaVZZUI+3JxFOkVwof0gnJZw/6I7i2RzesP4FlL17MM=
+
+Name: res/drawable-ldpi-v4/icon.png
+SHA-256-Digest: 8Hi6+T0VCbIYiPbyaHPk9tk+wlRcnO7SFdDlDP5AT8c=
+
+Name: res/drawable-mdpi-v4/icon.png
+SHA-256-Digest: XJ/bU4GLJT53AHT5/P/lcaA6WZqrB2kIl5znGYAPc8s=
+
+Name: res/layout-land/music_main.xml
+SHA-256-Digest: VmZ+s9NJI/Q2ykmF4SDc7tUdwlIPhKtqMqV+mUCaHOY=
+
+Name: res/layout/music_eq.xml
+SHA-256-Digest: ztFu/4SqyHLpzp6hnI3YUm4D9Insx6JjoGQG+BsTNs4=
+
+Name: res/layout/music_main.xml
+SHA-256-Digest: YpdI0gEPBixyabOuZ2csipF6NJuqyTP5UP+xyszrnrg=
+
+Name: resources.arsc
+SHA-256-Digest: Sksb3ENUB+FgUQXI6yI+XtV0T8SllQDxf6ulk54pFyo=
+
